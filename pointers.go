@@ -9,7 +9,9 @@ func AddOne(x int) {
 
 func AddOneViaPointer(xp *int) {
 	// xp++ // Go prohibits arbitrary pointer manipulation (thank goodness!)
-	(*xp)++
+	// Suggest you use parens to make precedence obvious 
+	// (even though here it's not needed)
+	(*xp)++ 
 }
 
 func main() {

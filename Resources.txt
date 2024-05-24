@@ -7,6 +7,9 @@ Download VS Code:
 Download GoLand (not free):
   https://www.jetbrains.com/go/
 
+Standard library docs:
+  https://pkg.go.dev/std
+  
 Contact Simon (questions, observations, discussions, requests for
   custom training--onsite or web-based--are all welcome,
   but I can't promise a prompt response to general discussions!)
