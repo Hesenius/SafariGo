@@ -1,0 +1,19 @@
+Download Go:
+  https://go.dev/dl/
+
+Download VS Code:
+  https://code.visualstudio.com/download
+
+Download GoLand (not free):
+  https://www.jetbrains.com/go/
+
+Contact Simon (questions, observations, discussions, requests for
+  custom training--onsite or web-based--are all welcome,
+  but I can't promise a prompt response to general discussions!)
+email:
+  simon@dancingcloudservices.com
+LinkedIn:
+  https://www.linkedin.com/in/simonhgroberts/
+YouTube Channel:
+  https://www.youtube.com/@DancingCloudServices
+
